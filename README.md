@@ -17,7 +17,7 @@
 ### :octocat: About me
 
 - 👦🏻 Pronouns: `he/him`
-- 🎖 Completed 3+ years in IT industry as Software Enginner.
+- 🎖 Completed 3+ years in IT industry as Software Engineer.
 - 🔭 Currently working on self improvement and learing new technologies.
 - 🌱 Learning `database`, `Node.js`, `Web Security`, `web animations`, `web performance improvement`.
 - 👯 Let's collaborate on `open source community`, `websites`.
