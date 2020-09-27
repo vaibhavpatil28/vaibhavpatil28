@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhavyashwantpatil/"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@_vaibhavpatil"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/vaibhav_patil28"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/vaibhavpatil_28"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/vaibhavpatil28"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/vaibhavpatil.dev"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/thevaibhavpatil"><img height="30" src="https://raw.githubusercontent.com/vaibhavpatil28/vaibhavpatil28/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
